@@ -1,1 +1,3 @@
 # Misc
+
+Różne rzeczy
